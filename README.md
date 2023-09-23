@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 
 ## Notes
-
+c
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 - Bug testing, didn't know the difference between CSS on the server and client.
 
